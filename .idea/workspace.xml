@@ -4,35 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6dd4c31-ce0c-464b-bf8b-e50ed3800826" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avaliacoes/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avaliacoes/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comentario/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comentario/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comentario/api/viewsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/endereco/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/endereco/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/endereco/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/migrations/0002_rename_atracao_local.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/settings.py" afterDir="false" />
+    <list default="true" id="c6dd4c31-ce0c-464b-bf8b-e50ed3800826" name="Changes" comment="reorganizando">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comentario/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentario/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comentario/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentario/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endereco/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/endereco/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endereco/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/endereco/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +57,7 @@
       <recent name="C:\Users\Desenvolvedor\Desktop\APITurista\comentario" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.migrate">
+  <component name="RunManager" selected="Python.makemigrations">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="APITurista" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +161,37 @@
       <option name="presentableId" value="Default" />
       <updated>1675954599399</updated>
     </task>
+    <task id="LOCAL-00001" summary="reorganizando">
+      <created>1675963664345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675963664345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="reorganizando">
+      <created>1675964147856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675964147856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reorganizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganizando" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
