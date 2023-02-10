@@ -9,6 +9,8 @@ class PontoTuristicoSerializer(serializers.ModelSerializer):
             'nome',
             'id',
             'descricao',
+            'aprovado',
+            'foto'
 
         ]
 
