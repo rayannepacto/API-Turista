@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6dd4c31-ce0c-464b-bf8b-e50ed3800826" name="Changes" comment="endpoint apps">
+    <list default="true" id="c6dd4c31-ce0c-464b-bf8b-e50ed3800826" name="Changes" comment="filter backends">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/atracoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/endereco/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/endereco/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
@@ -207,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675970061056</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="filter backends">
+      <created>1676050863422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676050863422</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +228,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reorganizando" />
     <MESSAGE value="endpoint apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="endpoint apps" />
+    <MESSAGE value="filter backends" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter backends" />
   </component>
 </project>
