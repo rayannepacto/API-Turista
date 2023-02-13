@@ -163,9 +163,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.runserver" />
-      <item itemvalue="Python.migrate" />
       <item itemvalue="Python.makemigrations" />
+      <item itemvalue="Python.migrate" />
+      <item itemvalue="Python.runserver" />
       <item itemvalue="Python.viewsets" />
     </list>
     <recent_temporary>
